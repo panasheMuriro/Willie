@@ -31,4 +31,4 @@ Google Firebase Hosting
 ![W13](https://user-images.githubusercontent.com/60305441/94348810-ce8abc80-0004-11eb-9a45-b2f67d1d06ef.PNG)
 ![w14](https://user-images.githubusercontent.com/60305441/94348812-d0548000-0004-11eb-959a-02e3da927807.PNG)
 
-Source code coming soon, visit https://panashe-muriro-portfolio.web.app/ for more inforamation
+Source code coming soon, visit https://panashe-muriro-portfolio.web.app/ for more information
